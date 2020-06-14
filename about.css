@@ -1,0 +1,37 @@
+.inner {
+	font-size:bold;
+}
+
+.masthead-brand {
+	margin-top:35px;
+	margin-bottom:40px;
+	background-image: url("http://www.allfreepsd.com/wp-content/uploads/2018/10/AllFreePsd-Vector-Graphics-Poster-background_16-800x600.jpg");
+	height:40px;
+	width: 100%;
+	border: auto;
+	color: white;
+	text-align: center;
+}
+
+body {
+	background-color: black;
+}
+.cover-heading {
+	background-image: url("http://www.allfreepsd.com/wp-content/uploads/2018/10/AllFreePsd-Vector-Graphics-Poster-background_16-800x600.jpg");
+	width: 100%;
+	margin-bottom: 40px;
+	border: auto;
+	color: white;
+}
+
+.lead {
+	color: white;
+	padding-top: 20px;
+	padding-left: 5px;
+	padding-right: 5px;
+	width: 100%;
+	text-align: center;
+	height: 400px;
+	border-bottom: 1px;
+	background-image: url("http://www.allfreepsd.com/wp-content/uploads/2018/10/AllFreePsd-Vector-Graphics-Poster-background_16-800x600.jpg");
+}
